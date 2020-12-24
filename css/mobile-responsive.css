@@ -7,7 +7,9 @@
     background-size: contain;
   }
   .btn-large-custom {
-	padding: 0px 1px;
+	padding: 2px 10px 2px 10px;
+	margin-top: -5px;
+	margin-left: -20px;
   }
   .styled div{
   margin-left: -0px;
