@@ -76,7 +76,8 @@ margin-left: 15px;
 .btn-large-custom { /*RA*/
 	padding: 15px 40px;
 	border-color: white; 
-	background: #1b75c9;
+	/*background: #1b75c9;*/
+	background-color: #FFC107;
 }
 
 #map-overlay {
