@@ -1,0 +1,23 @@
+/*RA*/
+@media 
+  (-webkit-min-device-pixel-ratio: 2), 
+  (min-resolution: 192dpi) { 
+  .banner {
+    background-image: url(../images/banner2.jpg);
+    background-size: contain;
+  }
+  .btn-large-custom {
+	padding: 0px 1px;
+  }
+  .styled div{
+  margin-left: -0px;
+  text-align: left;
+  margin-top: 50px;
+  font-size: 
+  }
+  .tour-info{
+  font-size: 15px;
+  font-weight: 350;
+  }
+
+}
